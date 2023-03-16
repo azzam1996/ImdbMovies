@@ -7,6 +7,7 @@ App displaying movies from Imdb website, built according to Clean Architecture
 <p align="center">
 <b>MVVM  ,  Clean Architecture  ,  Jetpack Components  ,  SOLID  ,  Flow</b>
 </p>
+
 # Screenshots
 <p align="center">
 <image src="/assets/image1.png" width="400">
